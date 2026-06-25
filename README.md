@@ -18,9 +18,9 @@
 <br/>
 
 <!-- ===== SOCIAL BADGES  <<< EDIT the links inside ( ) >>> ===== -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-farjad-039877419/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techbuildhub01-gif)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://byteportfolio.vercel.app/))
 [![Profile Views](https://komarev.com/ghpvc/?username=techbuildhub01-gif&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/techbuildhub01-gif)
 
 </div>
