@@ -12,7 +12,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sheikh%20Farjad%20Ahmed&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%7C%20C%23%20%E2%80%A2%20.NET&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- ANIMATED TYPING TEXT -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;I+build+with+React+%26+Next.js;Desktop+apps+with+C%23+%26+.NET;Always+shipping+new+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;I+build+with+React+%26+Next.js;3D+web+experiences+with+Three.js;Desktop+apps+with+C%23+%26+.NET;Always+shipping+new+projects)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,14 +29,15 @@
 ## 🧠 About Me
 
 ```python
-class Developer:
+class Sheikh:
     name        = "Sheikh Farjad Ahmed"
     location    = "Karachi, Pakistan"
     role        = "Full-Stack & Software Developer"
-    languages   = ["C++", "C#", "JavaScript", "TypeScript"]
-    web_stack   = ["React", "Next.js", "Tailwind CSS", "Framer Motion"]
-    desktop     = [".NET WinForms", "MS SQL Server"]
-    currently   = "Building web apps and desktop tools"
+    languages   = ["C++", "C#", "JavaScript", "TypeScript", "Python"]
+    web_stack   = ["React", "Next.js", "Three.js", "Tailwind CSS", "Framer Motion"]
+    backend     = ["Flask (Python)", ".NET", "MS SQL Server"]
+    desktop     = ["C# WinForms"]
+    currently   = "Building 3D web experiences & full-stack apps"
 ```
 
 ---
@@ -45,6 +46,7 @@ class Developer:
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
+| [🌌 CodeCosmos](https://github.com/techbuildhub01-gif/codecosmos) | Turns any GitHub profile into an explorable 3D galaxy — repos become stars, commits asteroid belts, open PRs comets | React · Three.js · Flask · GraphQL | [Code](https://github.com/techbuildhub01-gif/codecosmos) |
 | [🧾 ResumeMatch](https://github.com/techbuildhub01-gif/resumematch) | Reads PDF résumés and matches them against a job — a resume checker | Next.js · TypeScript · pdf.js | [Code](https://github.com/techbuildhub01-gif/resumematch) |
 | [🚗 DriveWith](https://github.com/techbuildhub01-gif/drivewith) | Ride-hailing app UI — bikes, cars, rickshaws, live map & fares | React · Vite | [Code](https://github.com/techbuildhub01-gif/drivewith) |
 | [🛒 Grocery Store](https://github.com/techbuildhub01-gif/Grocery-Store) | Online grocery storefront with carousels, image zoom & price filters | Next.js · Material UI · Tailwind | [Code](https://github.com/techbuildhub01-gif/Grocery-Store) |
@@ -53,7 +55,6 @@ class Developer:
 | [💳 Database Project](https://github.com/techbuildhub01-gif/Database-Project) | Store billing / POS system — items, orders, users & receipts | C# · WinForms · MS SQL Server | [Code](https://github.com/techbuildhub01-gif/Database-Project) |
 | [📚 Library Management System](https://github.com/techbuildhub01-gif/Library-Management-System) | Desktop app to manage a library, backed by SQL | C# · .NET · WinForms | [Code](https://github.com/techbuildhub01-gif/Library-Management-System) |
 | [🧮 DSA Project](https://github.com/techbuildhub01-gif/DSA-PROJECT) | Calculator desktop app — simple calculator + Zakat calculator | C++ · Windows Forms | [Code](https://github.com/techbuildhub01-gif/DSA-PROJECT) |
-
 > 💡 Tip: when you deploy another project, swap its `Code` link for a `Live` link like BytePortfolio's.
 
 ---
